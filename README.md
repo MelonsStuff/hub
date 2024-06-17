@@ -5,6 +5,6 @@
 * An R6 RIg
 * A stable executor (Emulator/Solara)
 
-### Credits
+### Credits:
 * The SDA Reanimation is made by LoadLua and SammyC.
 * This Hub was compiled by MelonScripter.
