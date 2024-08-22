@@ -2,7 +2,7 @@
 local wingtransparency = 0.75
 local effectser = false
 setfpscap(120)
-local reanimation = loadstring(game:HttpGet("https://pastebin.com/raw/cApC0U6y"))()
+local reanimation = loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/c71d9f1f9ce337cf81e7848eba4259c3/raw/a3fd8de5ba1a78bc926483b6d94d5f0e10e437bd/FDLess.txt"))()
 local FDless = reanimation.start({
 	revokeownerships=true,
 	simulationradius={
